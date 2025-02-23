@@ -8,18 +8,18 @@
 ## 📌 Sobre mí  
 👨‍💻 Soy un entusiasta de la tecnología con un fuerte interés en la programación y el hardware. Actualmente, estudio en una escuela técnica y sigo perfeccionando mis habilidades en desarrollo de software.  
 
-🎯 Mis principales áreas de interés incluyen:  
-### - 💡 Programación:
+### 🎯 Mis principales áreas de interés incluyen:  
+#### - 💡 Programación:
 
 Actualmente aprendiendo **Python** y herramientas esenciales como **Git & GitHub**.
 
-### - 🖥️ Sistemas Operativos:
+#### - 🖥️ Sistemas Operativos:
 -  Usuario de **Linux**, especialmente **Lubuntu**.
   
-### - 🔧 Electrónica y Hardware:
+#### - 🔧 Electrónica y Hardware:
  - **Técnico** en **PC** y **reparación** de computadoras.
   
-### - 🔥 Habilidades personales:
+#### - 🔥 Habilidades personales:
  - **Disciplinado**, **perseverante** y con **facilidad** para **aprender** cosas nuevas.  
 
 ---
